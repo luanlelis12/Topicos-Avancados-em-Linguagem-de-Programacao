@@ -1,0 +1,11 @@
+A - USB Flash Drives 
+https://codeforces.com/problemset/problem/609/A
+
+B - Registration System 
+https://codeforces.com/problemset/problem/4/C
+
+C - Apaxiaaaaaaaaaaaans! 
+https://open.kattis.com/problems/apaxiaaans
+
+D - Judging Troubles 
+https://open.kattis.com/problems/judging
