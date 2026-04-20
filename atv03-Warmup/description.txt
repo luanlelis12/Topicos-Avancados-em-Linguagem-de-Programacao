@@ -1,0 +1,8 @@
+A - String Task
+https://codeforces.com/problemset/problem/118/A
+
+B - Three Strings
+https://codeforces.com/problemset/problem/1301/A
+
+C - Vanya and Fence
+https://codeforces.com/problemset/problem/677/A
