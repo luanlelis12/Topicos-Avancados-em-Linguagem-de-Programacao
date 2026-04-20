@@ -1,0 +1,8 @@
+A - Shopaholic 
+https://open.kattis.com/problems/shopaholic
+
+B - Advantage 
+https://codeforces.com/problemset/problem/1760/C
+
+C - Polycarp Training 
+https://codeforces.com/problemset/problem/1165/B
