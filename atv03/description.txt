@@ -1,0 +1,11 @@
+A - Grasshopper And the String
+https://codeforces.com/problemset/problem/733/A
+
+B - Game Outcome 
+https://codeforces.com/problemset/problem/157/A
+
+C - Odd Man Out 
+https://open.kattis.com/problems/oddmanout
+
+D - Jolly Jumpers 
+https://open.kattis.com/problems/jollyjumpers
