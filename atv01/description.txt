@@ -1,0 +1,8 @@
+A - Cold-puter Science 
+https://open.kattis.com/problems/cold
+
+B - Soldier and Bananas 
+https://codeforces.com/problemset/problem/546/A
+
+C - Weird Algorithm 
+https://cses.fi/problemset/task/1068 
