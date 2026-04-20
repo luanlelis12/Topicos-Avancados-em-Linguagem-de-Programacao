@@ -1,0 +1,5 @@
+A - Tasks and Deadlines 
+https://cses.fi/problemset/task/1630
+
+B - Stick Lengths 
+https://cses.fi/problemset/task/1074

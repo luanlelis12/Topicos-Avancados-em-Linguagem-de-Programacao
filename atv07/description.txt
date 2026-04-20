@@ -1,0 +1,5 @@
+A - Studying Algorithms 
+https://codeforces.com/gym/102951/problem/B
+
+B - Movie Festival 
+https://cses.fi/problemset/task/1629
